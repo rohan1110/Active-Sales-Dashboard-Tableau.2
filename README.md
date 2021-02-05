@@ -1,5 +1,10 @@
 # Active-Sales-Dashboard-Tableau.2
-Tableau Sales Dashboard having active interactive features
+Tableau Sales Dashboard having active interactive features.
+
+It  consists dynamic functionality which joins 3 Dashboards to one
+another. The Primary dashboard displays sales across states, Secondary Dashboard
+corresponds its sales mix and trends from the primary and third dashboard provides a
+detailed report of the products.
 
 https://public.tableau.com/profile/rohan.bansal#!/vizhome/ActiveDashboards/PrimaryDashboard
 
