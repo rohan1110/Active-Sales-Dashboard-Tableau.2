@@ -1,6 +1,6 @@
 # Sales Dashboard with Active Functionality using Tableau
 
-Tableau Sales Dashboard having active interactive features.
+### Tableau Sales Dashboard having active interactive features.
 
 It  consists dynamic functionality which joins 3 Dashboards to one another. 
 
